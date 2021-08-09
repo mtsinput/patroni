@@ -1,2 +1,2 @@
 # patroni
-Patroni cluster
+Patroni cluster + Consul
